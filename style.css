@@ -1,0 +1,30 @@
+#main-section {
+    background-color: #f5f5dd;
+    margin: auto;
+    /* text-align: center; */
+}
+ 
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 10px auto;
+
+    
+}
+
+.s1 {
+    background-color: rgba(20, 25, 23, 1);
+}
+
+.s2 {
+    background-color: rgba(20, 25, 23, 0.8);
+
+}
+.s3 {
+    background-color: rgba(20, 25, 23, 0.5);
+
+}
+.s4 {
+    background-color: rgba(20, 25, 23, 0.2);
+
+}
